@@ -8,3 +8,10 @@ The code will be released soon.
   NVIDIA 2080Ti 12G * 1
 - Self Environment:
   NVIDIA 3090Ti 24G * 1
+
+
+## Performance on GOT-10k
+| Name | AO | SR-50 | SR-75| FPS | Stage1 Training Epoch | Stage2 Training Epoch|GPU|
+| :----:| :----: | :----: | :----:| :----: |:----:|:----:|
+| Swin-Tiny-MSTARK | 0.655 | 0.764 |0.563 | |:----:|:----:|
+| Swin-Base-M-STARK | 0.672|  0.769| 0.611| |:----:|:----:|
