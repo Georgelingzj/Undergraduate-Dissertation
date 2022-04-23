@@ -12,6 +12,8 @@ The code will be released soon.
 
 ## Performance on GOT-10k
 | Name | AO | SR-50 | SR-75| FPS | Stage1 Training Epoch | Stage2 Training Epoch|GPU|
-| :----:| :----: | :----: | :----:| :----: |:----:|:----:|
-| Swin-Tiny-MSTARK | 0.655 | 0.764 |0.563 | |:----:|:----:|
-| Swin-Base-M-STARK | 0.672|  0.769| 0.611| |:----:|:----:|
+| :----:| :----: | :----: | :----:| :----: |:----:|:----:||:----:|
+| Swin-Tiny-MSTARK | 0.655 | 0.764 |0.563 | |100|50|Single Nvidia RTX 3090 24G|
+| Swin-Base-M-STARK | 0.672|  0.769| 0.611| |100|50|Single Nvidia RTX 3090 24G|
+| Swin-Base-L-STARK | |  | | ||||
+| M-Tracker-L-V1 | |  | | ||||
