@@ -7,7 +7,7 @@ The code will be released soon.
 - School Environment:
   NVIDIA 2080Ti 12G * 1
 - Self Environment:
-  NVIDIA 3090Ti 24G * 1
+  NVIDIA 3090 24G * 1
 
 
 ## Performance on GOT-10k
